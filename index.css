@@ -1,0 +1,33 @@
+.swiming {
+  position: relative;
+}
+.swiming div {
+  border: 2px dashed greenyellow;
+  width: 200px;
+  margin: 10px;
+}
+#water {
+  position: relative;
+  top: -80px;
+}
+#ring {
+  position: relative;
+  z-index: 1;
+  top: 10px;
+  left: 5px;
+}
+#boy {
+  position: relative;
+  top: 90px;
+  z-index: 2;
+}
+.about-me {
+  background-color: aqua;
+  height: 400px;
+  width: full-width;
+}
+.about-me h1 {
+  color: red;
+
+  text-align: center;
+}
